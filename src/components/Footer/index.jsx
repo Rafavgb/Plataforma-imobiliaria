@@ -24,22 +24,6 @@ const Footer = () => {
                 <li><span>Vender</span></li>
             </ul>
         </Item>
-        <Item>
-            <h3>Nossos serviços:</h3>
-            <ul>
-                <li><span>Comprar</span></li>
-                <li><span>Alugar</span></li>
-                <li><span>Vender</span></li>
-            </ul>
-        </Item>
-        <Item>
-            <h3>Nossos serviços:</h3>
-            <ul>
-                <li><span>Comprar</span></li>
-                <li><span>Alugar</span></li>
-                <li><span>Vender</span></li>
-            </ul>
-        </Item>
         </Container>
         <Copy>
             <p>Todos os direitos reservados.</p>
